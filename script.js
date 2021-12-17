@@ -1,3 +1,5 @@
+
+
 function add(num1, num2) {
     let result = num1 + num2;
 
@@ -42,5 +44,3 @@ function operate(op, num1, num2) {
     }
 
 }
-
-operate("+", 2, 6);
