@@ -112,6 +112,7 @@ clearBtn.addEventListener("click", function () {
     display.textContent = "";
     num1 = "";
     num2 = "";
+    finalNum = "";
     op = "";
 })
 
